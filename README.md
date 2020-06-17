@@ -1,5 +1,5 @@
 # reference-projects
-A collection of repos which are good resources for researching how something is done.
+A collection of repos which are good resources for researching how something is done. Please help me grow this!
 
 ## Python
 
